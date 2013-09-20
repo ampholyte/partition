@@ -10,4 +10,5 @@ Tab : http://www.songsterr.com
 - One piece : Memories  
 - One piece : Run Run Run
 - Final Fantasy 10 : Otherworld
+- Final Fantasy 4 : Main Theme
 
