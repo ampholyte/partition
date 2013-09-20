@@ -6,6 +6,8 @@ Tab : http://www.songsterr.com
 - FairyTail : Gray Theme
 - Zelda : Legend of Zela
 - Mario : Super Mario Bros Theme
-- Mario : Super Mario Bros Overworld
+- Mario : Super Mario Bros Otherworld
 - One piece : Memories  
 - One piece : Run Run Run
+- Final Fantasy 10 : Otherworld
+
