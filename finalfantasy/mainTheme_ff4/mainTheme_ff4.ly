@@ -67,6 +67,8 @@
               hh8 hh16 hh hh8 hh16 hh <hh sn>8 hh16 hh hh8 hh16 hh
               hh8 hh16 hh hh8 hh16 hh <hh sn>8 hh16 hh hh8 hh16 hh
             }
+
+            \bar "||"
           } 
           \\ 
           { 

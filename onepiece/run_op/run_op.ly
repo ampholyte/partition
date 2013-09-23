@@ -271,6 +271,8 @@
             cymc4 <cymr sn> cymr <cymr sn>
             cymr4 <cymr sn> cymr sn8 sn8
             r1
+
+            \bar "||"
           } 
           \\ 
           { 

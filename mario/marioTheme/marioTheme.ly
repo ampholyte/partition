@@ -67,6 +67,7 @@
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
 
+            \bar "||"
             % Partie B
             hh8^"B"[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
@@ -77,18 +78,21 @@
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
 
+            \bar "||"
             % Partie C
             hh8^"C" bd16 <sn hh>8 bd16 hh8 hh8. <sn hh>8 bd16 bd bd
             hh8 bd16 <sn hh>8 bd16 hh8 hh8. <sn hh>8 bd16 bd bd
             hh8 bd16 <sn hh>8 bd16 hh8 hh8. <sn hh>8 bd16 bd bd
             hh8 bd16 <sn hh>8 bd16 hh8 hh8. <sn hh>8 bd16 bd bd
 
+            \bar "||"
             % Partie A
             hh8^"A"[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
             hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]} hh8[ \times 2/3 {hh16 r hh]} <sn hh>8[ \times 2/3 {hh16 r hh]}
 
+            \bar "||"
             % Partie D
             hh8.^"D" hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
@@ -99,19 +103,21 @@
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
 
-
+            \bar "||"
             % Partie C
             <hh bd>8^"C" hh16 <sn hh>8 hh16 <hh bd>8 <hh bd>8. <sn hh>8 <hh bd>16 bd bd
             <hh bd>8 hh16 <sn hh>8 hh16 <hh bd>8 <hh bd>8. <sn hh>8 <hh bd>16 bd bd
             <hh bd>8 hh16 <sn hh>8 hh16 <hh bd>8 <hh bd>8. <sn hh>8 <hh bd>16 bd bd
             <hh bd>8 hh16 <sn hh>8 hh16 <hh bd>8 <hh bd>8. <sn hh>8 <hh bd>16 bd bd
 
+            \bar "||"
             % Partie D
             hh8.^"D" hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>8 hh
             hh8. hh16 <sn hh>8 hh hh8. hh16 <sn hh>4
 
+            \bar "||"
           } 
           \\ 
           { 

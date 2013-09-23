@@ -72,6 +72,7 @@
               hh8-> hh hh-> hh hh-> hh <hh ss>-> hh
             }
 
+            \bar "||"
             % Verse 1
             hh8^"Verse 1" hh hh <hh bd> hh hh <hh ss> hh
 
@@ -81,6 +82,7 @@
 
             hh8 hh hh hh hh4 toml
 
+            \bar "||"
             % Pre-Chorus
             <cymc toml>8^"Pre-Chorus" hh <sn hh> <bd hh> hh hh <sn hh> hh
 
@@ -104,6 +106,7 @@
             <toml cymc>8 hh <sn hh> <bd hh> hh hh <sn hh> hh
             cymc4 <sn hho>8 bd sn toml tomh16 tomh tommh8
 
+            \bar "||"
             % Chorus
             <cymc toml>8^"Chorus" cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
@@ -120,12 +123,14 @@
             <cymc toml> cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr <hho sn> <hho sn>4
 
+            \bar "||"
             % Main Riff
             <cymc toml>8^"Main riff" hh <sn hh> <bd hh> hh hh <sn hh> hh
             hh8 hh <sn hh> <bd hh> hh hh <sn hh> hh
             hh8 hh <sn hh> <bd hh> hh hh <sn hh> hh
             hh hho <hhp sn>8  tommh4 toml8 tomh4
 
+            \bar "||"
             % Verse 2
             <cymc toml>8^"Verse 2"-> hh hh-> <hh bd> hh-> hh <sn hh>-> hh
             \repeat unfold 3 {
@@ -142,6 +147,7 @@
             hh8-> hh hh-> <hh bd> hh-> hh <sn hh>-> <cymc bd>
             r8 <toml bd> sn[ tomh32 toml tommh16] sn8 <bd toml>4 r8
 
+            \bar "||"
             % Pre-Chorus
             <cymc toml>8^"Pre-Chorus" hh <sn hh> <bd hh> hh hh <sn hh> hh
             hh8 hh <sn hh> <bd hh> hh hh <sn hh> hh 
@@ -160,6 +166,7 @@
             <cymc toml>8 hh <sn hh> <bd hh> hh hh <sn hh> hh
             cymc4 <sn hho>8 bd sn toml tomh16 tomh tommh8
 
+            \bar "||"
             % Chorus
             <cymc toml>8^"Chorus" cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
@@ -176,6 +183,7 @@
             <cymc toml> cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr <hho sn> <hho sn>4
 
+            \bar "||"
             % Chorus
             <cymc toml>8^"Chorus" cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
@@ -192,20 +200,24 @@
             <cymc toml> cymr <cymr sn> <cymr bd> cymr cymr <cymr sn> cymr
             cymr cymr <cymr sn> <cymr bd> cymr <hho sn> <hho sn>4
 
+            \bar "||"
             % Trans
             <cymc toml>8^"Trans" hh <sn hh> <bd hh> hh hh <sn hh> hh
             hh8 hho <sn hhp> tommh4 toml8 tomh4
 
+            \bar "||"
             % Chorus
             hh8->^"Chorus"-> hh hh-> hh hh-> hh hh-> hh
             \repeat unfold 5 {
               hh8-> hh hh-> hh hh-> hh hh-> hh
             }
 
+            \bar "||"
             % Outro
             hho1^"Outro"
             s1 s s s s
 
+            \bar "||"
           } 
           \\ 
           { 

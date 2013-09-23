@@ -171,6 +171,8 @@
             s4 sn8 <sn cymc bd> s4 sn8 <sn cymc bd>
             s1
             s2. sn8 <sn cymc>
+
+            \bar "||"
           } 
           \\ 
           { 

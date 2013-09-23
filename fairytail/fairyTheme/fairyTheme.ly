@@ -89,11 +89,13 @@
             s1
             s1
             s2. cymc4
+            \bar "||"
 
             % Bridge 
             cymc4^"Bridge" s2.
             s1
 
+            \bar "||"
             % Verse 3
             <cymc hho>8^"Verse 3" hh s2.
             s1 
@@ -104,12 +106,14 @@
             s1
             s4 cymc8 hh sn16 sn sn sn sn sn sn sn
 
+            \bar "||"
             % Pre-Verse
             cymc2.^"Pre-Verse" sn4
             cymc4 s4 s4 <tomh tommh>16 <tomh tommh> <tommh toml>8
             cymc4 s2.
             cymc4 cymc8 sn16 sn s2
 
+            \bar "||"
             % Verse 4
             cymc8^"Verse 4" [hh16 hh] <sn hh>8 [hh16 hh] hh16 hh hh hh <sn hh>8 [hh16 hh]
             hh8 [hh16 hh] <sn hh>8 [hh16 hh] hh16 hh hh hh <sn hh>8 [hh16 hh]
@@ -120,6 +124,7 @@
             hh8 [hh16 hh] <sn hh>8 [hh16 hh] hh16 hh hh hh <sn hh>8 [hh16 <hh bd>]
             hh8 [hh16 hh] <cymc hh>8 [<hh bd>16 <hh bd>] hh hh hh hh hh hh hh hh
 
+            \bar "||"
             % Verse 5
             cymc8^"Verse 5" [hh16 hh] <sn hh>8 [hh16 hh] hh16 hh hh hh <sn hh>8 [hh16 hh]
             hh8 [hh16 hh] <sn hh>8 [hh16 hh] hh hh hh hh <sn hh>8 [hh16 hh]
@@ -130,12 +135,14 @@
             hh8 [hh16 hh] <sn hh>8 [hh16 hh] hh hh hh hh <sn hh>8 [hh16 <hh bd>]
             hh8 [hh16 hh] <cymc sn>8 [<hh bd>16 <hh bd>] hh hh hh hh hh hh hh hh
 
+            \bar "||"
             % Verse 6
             s1^"Verse 6"
             s1
             s1
             s1
 
+            \bar "||"
             % Pre-Verse            
             s1^"Pre-Verse"
             s1
@@ -146,12 +153,15 @@
             s1
             s1
 
+            \bar "||"
             % Ending
             cymc1^"Ending"  
             cymc1
             cymc1
             r1
             cymc1
+
+            \bar "||"
           } 
           \\ 
           { 
