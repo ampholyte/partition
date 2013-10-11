@@ -18,7 +18,7 @@
   %}
 
   \header {
-    title = "The Blues Brothers - Soul Man - Titre Drum"
+    title = "The Blues Brothers - Soul Man Drum"
     composer = "The Blues Brothers  - arr. Ampholyte"
 
   }
