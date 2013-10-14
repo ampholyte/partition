@@ -18,7 +18,7 @@
   %}
 
   \header {
-    title = "Castlevania Theme - Titre Drum"
+    title = "Castlevania Theme Drum"
     composer = "Kinuyo Yamashita - arr. Ampholyte"
 
   }
