@@ -37,3 +37,6 @@ Tab : http://www.songsterr.com
 
 ## Pokemon ##
 - Pokemon : Main Theme
+
+## Guns N' Roses ##
+- Guns N' Roses - Dust N' Bones

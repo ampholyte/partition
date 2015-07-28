@@ -13,7 +13,7 @@
   charleston ferme : hh
   pedale charleston : hhp
   crach :  cymc
-  ride : cymcb
+  ride : cymr
 
   %}
 
@@ -37,7 +37,7 @@
     }
     evenFooterMarkup = \oddFooterMarkup
     
-    % Pour réduire sur une seule page
+    % Pour reduire sur une seule page
 
     % system-system-spacing = #'((basic-distance . 0.1) (padding . 0))
     % ragged-last-bottom = ##f
@@ -52,11 +52,13 @@
     \new DrumVoice = "2" { s1 *1 } % voix du bas (une mesure)
     \drummode 
     { 
-      #(override-auto-beam-setting '(end * * 4 4) 3 4) 
-      #(override-auto-beam-setting '(end * * 4 4) 1 4)
-      % Les deux lignes précédentes permettent de
+      % Les deux lignes precedentes permettent de
       % grouper les croches par deux au lieu de
-      % quatre dans la configuration par défaut.
+      % quatre dans la configuration par defaut.
+      % Permet de sÃ©parer les croches par groupe de 2 
+      \set Timing.beamExceptions = #'()
+      \set Timing.baseMoment = #(ly:make-moment 1/4)
+      \set Timing.beatStructure = #'(1 1 1 1)
 
       << 
         \tempo 4 = 
