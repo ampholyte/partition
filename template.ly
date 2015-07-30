@@ -1,4 +1,9 @@
-\version "2.12.3"
+\version "2.18.2"
+
+% Regle pour les pages
+% #(set-global-staff-size 19.5) % taille des notes
+% #(set-default-paper-size "a4")
+% #(ly:set-option 'point-and-click #f) 
 
 %{
   frappe baguette : ss
@@ -14,12 +19,16 @@
   pedale charleston : hhp
   crach :  cymc
   ride : cymr
-
+  bell : cyms
   %}
 
+  titlestr = "Compositeur - Titre"
+  composerstr = "Drum - arr. Ampholyte"
+  
+
   \header {
-    title = "Titre  - Titre Drum"
-    composer = "Compositeur - arr. Ampholyte"
+    title = \titlestr
+    composer = \composerstr 
 
   }
 
@@ -31,17 +40,11 @@
     oddFooterMarkup = \markup {
       \fill-line {
         \on-the-fly \print-page-number-check-first
-        \fromproperty #'header:"Titre - Titre - arr. Ampholyte"
+        \fromproperty #'header: \titlestr
         \fromproperty #'page:page-number-string
       }
     }
     evenFooterMarkup = \oddFooterMarkup
-    
-    % Pour reduire sur une seule page
-
-    % system-system-spacing = #'((basic-distance . 0.1) (padding . 0))
-    % ragged-last-bottom = ##f
-    % ragged-bottom = ##f
   }
 
   \score {
@@ -56,20 +59,18 @@
       % grouper les croches par deux au lieu de
       % quatre dans la configuration par defaut.
       % Permet de séparer les croches par groupe de 2 
-      \set Timing.beamExceptions = #'()
-      \set Timing.baseMoment = #(ly:make-moment 1/4)
-      \set Timing.beatStructure = #'(1 1 1 1)
+      \set DrumVoice.beamExceptions = #'()
+      \set DrumVoice.baseMoment = #(ly:make-moment 1/4)
+      \set DrumVoice.beatStructure = #'(1 1 1 1)
 
       << 
-        \tempo 4 = 
+        \tempo 4 =  
         {
-          
-          
+
         } 
         \\ 
         { 
-      
-		
+
         } 
 
       >>

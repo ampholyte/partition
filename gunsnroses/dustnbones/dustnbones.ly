@@ -18,8 +18,8 @@
   %}
 
   \header {
-    title = "Dust N' Bones Drum"
-    composer = "Guns N' Roses - arr. Ampholyte"
+    title = "Guns N' Roses - Dust N' Bones"
+    composer = "Drum - arr. Ampholyte"
   }
 
   \paper {
@@ -30,7 +30,7 @@
     oddFooterMarkup = \markup {
       \fill-line {
         \on-the-fly \print-page-number-check-first
-        \fromproperty #'header:"Dust N' Bones - Dust N' Bones - arr. Ampholyte"
+        \fromproperty #'header:"Guns N' Roses - Dust N' Bones"
         \fromproperty #'page:page-number-string
       }
     }
@@ -68,7 +68,7 @@
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn> 
             <hho bd>4 <hho sn> hho <hho sn> 
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8 
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8 
             <hho bd>4 <hho sn> hho <hho sn> 
             <hho bd>4 <hho sn> hho <hho sn> 
             <hho bd>4 <hho sn> hho <hho sn> 
@@ -78,7 +78,7 @@
             <cymc bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> <cymc bd> <hho sn>
             <cymc bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8 
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8 
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
@@ -88,7 +88,7 @@
             <cymc bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> <cymc bd> <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho \slashedGrace sn8 sn4
+            <hho bd>4 <hho sn> hho \acciaccatura sn8 sn4
 
             % Mesure 27
             <cymc bd>4 <hho sn> hho <hho sn>
@@ -105,22 +105,22 @@
             % Mesure 35
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
-            <cymc bd>4 <hho sn> hho sn16 sn \slashedGrace sn8 sn8 
+            <cymc bd>4 <hho sn> hho sn16 sn \acciaccatura sn8 sn8 
             <cymc bd>4 <hho sn> hho <hho sn>
 
             % Mesure 39
-            cymr4 <cymr sn> cymr <cymr sn>8 bd
+            cymr4^"Ride" <cymr sn> cymr <cymr sn>8 bd
             cymr4 <cymr sn> cymr <cymr sn>8 bd
             cymr4 <cymr sn>8 bd cymr4 <cymr sn>8 bd
             cymr4 tomh16 tomh tomh8 tommh16 tommh tommh8 toml16 toml toml8 
 
             % Mesure 43 
-            <cymc bd>4 hho r hho8 bd
-            <cymc bd>4 hho r \slashedGrace sn8 sn4
+            <cymc bd>4^"Hit-Hat" hho r hho8 bd
+            <cymc bd>4 hho r \acciaccatura sn8 sn4
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8 
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8 
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
@@ -130,7 +130,7 @@
             <cymc bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> <cymc bd> <hho sn>
             <cymc bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8 
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8 
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
@@ -139,7 +139,7 @@
             % Mesure 61
             <cymc bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> <cymc bd> <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8
             <hho bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <cymc sn>
@@ -157,13 +157,13 @@
             <hho bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> hho sn16 sn sn sn
             <cymc bd>4 <hho sn> hho <hho sn>
-            cymr4 <cymr sn> cymr <cymr sn>8 bd
+            cymr4^"Ride" <cymr sn> cymr <cymr sn>8 bd
             cymr4 <cymr sn> cymr <cymr sn>8 bd
 
             % Mesure 79
             cymr4 <cymr sn> cymr <cymr sn>8 bd
             cymr4 tomh16 tomh tomh8 tommh16 tommh tommh8 toml16 toml toml8
-            <cymc bd>4 hho r hho8 bd
+            <cymc bd>4^"Hit-Hat" hho r hho8 bd
             bd4 hho r hho
 
             bd4 hho r hho8 bd
@@ -174,7 +174,7 @@
             % Mesure 87
             bd4 hho r hho8 bd
             sn16 sn sn sn sn sn sn sn tommh tommh tommh tommh toml toml toml toml
-            <cymc bd>4 <cymr sn> cymr <cymr sn>
+            <cymc bd>4^"Ride" <cymr sn> cymr <cymr sn>
             cymr4 <cymr sn>8 <cymc bd>4 bd8 <cymr sn>4
             cymr4 <cymr sn> cymr <cymr sn>
             cymr4 <cymr sn>8 <cymc bd>4 bd8 <cymr sn>4
@@ -197,12 +197,12 @@
 
             % Mesure 105
             \time 4/4
-            <cymc bd>4 hho r hho8 bd
+            <cymc bd>4^"Hit-Hat" hho r hho8 bd
             bd4 hho r <tommh toml>
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8 
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8 
 
             % Mesure 111 
             bd4 <hho sn> hho <hho sn>
@@ -214,7 +214,7 @@
            
             % Mesure 117
             <cymc bd>4 <hho sn> hho <hho sn>
-            <hho bd>4 <hho sn> hho <hho sn>8 \slashedGrace sn8 sn8
+            <hho bd>4 <hho sn> hho <hho sn>8 \acciaccatura sn8 sn8
             bd4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> hho <hho sn>
@@ -233,7 +233,7 @@
             <hho bd>4 <hho sn> hho <hho sn>
             <cymc bd>4 <hho sn> hho <hho sn>
             <hho bd>4 <hho sn> sn16 sn sn sn sn sn sn sn
-            cymc4 <cymr sn> cymr <cymr sn>8 bd
+            cymc4^"Ride" <cymr sn> cymr <cymr sn>8 bd
             <cymr bd>4 <cymr sn> cymr <cymc sn>
 
             % Mesure 135

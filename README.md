@@ -41,3 +41,5 @@ Tab : http://www.songsterr.com
 
 ## Guns N' Roses ##
 - Guns N' Roses - Dust N' Bones
+- Guns N' Roses - It's So Easy
+- Guns N' Roses - Live And Let Die
