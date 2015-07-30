@@ -43,3 +43,4 @@ Tab : http://www.songsterr.com
 - Guns N' Roses - Dust N' Bones
 - Guns N' Roses - It's So Easy
 - Guns N' Roses - Live And Let Die
+- Guns N' Roses - Knockin' On Heaven's Door
